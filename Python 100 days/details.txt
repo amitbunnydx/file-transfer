@@ -1,0 +1,47 @@
+complete day 1 to 15 code stapes
+1- After installation open pycharm
+2- Learn
+3- Enable Access
+4- go to below link and click on get
+https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp?noRedirect=true
+5-sign in and check 1st option and click on Agree
+6- after that File -> Learn and Teach -> Browse Courses.
+7- scroll down to find the course: 100 Days of Code - The Complete Python Pro Bootcamp and click "Start".
+
+day 35= weather updeta alert (at selected location)
+day 36= stock top 3 newse Alert
+day 38= workout Tracker google spreadsheets and sms
+day 39=flight deal finder
+day 40=flightclub
+day 46= spotify
+day 47= amazon price tracker
+day 48= web based game
+day 49= LinkedIn apply job
+day 51= internet speed twiter complaint bot
+day 53= web_scraping and data entry data job
+day 54 to day 58 = (web devlopment in details with flask, html, css, bootstrap
+54- basic flask, 55- html in flask, 56- static html in flask, 57- templating jinja in flask
+58-bootstrap use in css)
+day 59 - day 60 = blog capstone project
+day 61 = (python flask post request and advance forms)
+day 62 = coffee and Wi-Fi project(flask,wtf,boostrap,csv)
+day 63 = Sql light and SQL Alchemy
+day 64 = My top 10 movie website
+day 65 = web designing UI, UX
+day 66 = Building own API with rest writing
+day 67 = Updated capstone project
+day 68 = login & register User with Authentications
+day 69 = blog capstone project with working login fetchers
+ady 70 = Git and GitHub
+day 71 = deployment of blog capstone project
+day 72=  Data Exploration with pandas [shape,columnName,Findna,dropna(),.sort_value(),insert(),.groupby(),.groupby().mean()]
+day 73=  Data Visualisation matplotlib [groupby().sum(),.to_datetime(),df.pivot(),.plt.plot(),rolling().mean()]
+day 74=  Aggregate and marge data [groupby().count(),plt.gca()/n ax1/twinx(),groupby().agg({'nun':pd.Sries.nunique}), value_count(),pd.mearge(df1,df2,on='id')]
+day 75=  Resampling & visualising time series [tast steps=.describt(),na,datetime,resample('m',on='DATE'),chart,dpi,--,-.,0,^,.grid()]
+day 76=  Beautiful ploty chart & Analysis Android appstore [.sample(),na,duplicate,drop_duplicate,.to_numeric(),sort_value,px.pie(),update_traces().nunique(),stack()]
+day 77=  Computation with numpy & n-dimensional array [np.array([]),array([],[]),array([[],[]],[[],[]],[[],[]]),.arang(),.linspace(),
+            .imshow(),[::0],np.flip(),.nonzero(),.where(),matmul(a1,a2),Image.open(''),.ndim(),]
+day 78= Linear Regression & datavisualisation with seaborn [ df.loc[()&()],.query('exp > exp'),decade=year//10*10,.regplot,
+        REVENUE=θ0+θ1BUDGET,regression.fit(X,y),LinearRegression.regression.intercept_,LinearRegression.regression.coef_,regression.score()]
+day 79=
+day 80=
